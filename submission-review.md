@@ -46,3 +46,35 @@ I will say using Twine is by no means quick to use. It takes a lot of time. But 
 Take good care, and go for a bike ride.
 
 -hb the blogger
+
+----------------------------------------------------------------------------------
+
+<!-- ## Submission Review by Isabelle Viray
+
+### Communication, Style, and Polish: 3.5/5
+
+The dialogue of *Bike.inc* is clear and concise, with a substantial balance of visual and written context that maintains engagement without overwhelming the user. Your tone throughout is personal and welcoming, and the casual, conversational writing style makes it enjoyable to click through. The game’s structure is logical, from choosing bike materials to marketing, with multiple options that reinforce interactivity. The inclusion of a reflection process adds depth to the creative project, framed with a cohesive introduction and conclusion that wraps up the game. This project’s dedication to the topic elevates its purpose, making the game’s progression feel natural and relevant.
+
+However, there are minor grammatical and punctuation errors that could be easily avoided by proofreading. Various sentences are wordy and could be tightened or split up for digestibility and clarity. Some results lack further context or justifications for the user’s choices, which limits the discussion of research findings that could have grounded your gameplay/explanations in academic relevance. Additionally, some sources lack citations and credibility, and a few hyperlinks appear as dead links or are inaccessible.
+
+### Relevance to Special Issue Theme: 4.5/5
+
+*Bike.Inc* aligns perfectly with this year's theme of creativity in digital spaces! You use Twine, a digital storytelling platform, to create an interactive narrative that discusses sustainability, community, and design. The game ties innovation to digital humanities principles, utilizing a creative and digital tool to explore human culture while creating a space that fosters knowledge and learning. The game’s non-linear format and branches of choices mirror the “creative cycle” of bike-building, emphasizing the freedom of Twine as an open-source creative tool.
+
+To strengthen its connection, you could expand on the creative process of Bike.Inc alongside digital humanities. For example, how does Twine uphold the value of creativity in digital spaces? What advantages does it offer for creative DH projects, and how does it differ from traditional interactive story-making? Reflecting on this could deepen the game’s methodology and theoretical framework.
+
+### Originality, Creativity, Strength of Ideas: 5/5
+
+The concept of an interactive bike-making game is original and intriguing, especially for players new to the subject, as it motivates them to continue learning about environmental awareness. I can easily recognize your passion for bikes, which enriches the game’s experience and makes it genuine and meaningful to play. Teaching sustainability through a choose-your-own-adventure format is an excellent example of using technology for good: providing a playful way to address real-world concerns. Your personal connection and experience add authenticity and intent to the project, grounding it in the co-creativity nature of digital spaces.
+
+There is room to explore varying outcomes of choices. For example, leading to different sustainability paths rather than the same ending each time, or including potential negative outcomes accompanied by a call to action, would enhance depth and replayability.
+
+### Accuracy and Completion of Markdown Code: 4/5
+
+Your markdown file includes the relevant metadata needed for the journal submission, structured properly in adherence to CTRL+ALT+DH’s guidelines. Headings and paragraphs are properly formatted, with appropriate spacing that enhances code readability and compatibility. Your game link is functional, and you make a considerable and clean effort in using markdown syntax and structure. 
+
+Adding additional headings (“	Abstract”, “Takeaways”, “Conclusion”) to separate paragraphs would make for a more organized and sectional read. You could also be creative with syntax styles, such as adding italics, underlined words, or bolded parts to add emphasis to your context and build on the code’s uniqueness. One small note is to omit the time and format the date as “2025-10-08” for consistency. 
+
+------------------------------------------------------------------------------
+
+Well done, Jack! Bike.inc is a well-executed concept, both insightful and fun to navigate. I appreciate your thoughtfulness when creating the project, and each branching path demonstrates a solid understanding of the topic. --->
