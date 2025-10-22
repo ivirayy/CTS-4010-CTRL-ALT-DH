@@ -92,4 +92,6 @@ Adding additional headings (“	Abstract”, “Takeaways”, “Conclusion”) 
 
 ------------------------------------------------------------------------------
 
-Well done, Jack! *Bike.inc* is a well-executed concept, both insightful and fun to navigate. I appreciate your thoughtfulness when creating the project, and each branching path demonstrates a solid understanding of the topic. --->
+Well done, Jack! *Bike.inc* is a well-executed concept, both insightful and fun to navigate. I appreciate your thoughtfulness when creating the project, and each branching path demonstrates a solid understanding of the topic. 
+
+*Score: 17/20*
